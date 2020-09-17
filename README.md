@@ -15,8 +15,8 @@ Criar um app de Lista de Compras:
 Layout quando insere um novo:
 
 
-[Digite o nome do produto aqui     ]
-[Digite a quantidade aqui          ]
+`Digite o nome do produto aqui     `
+`Digite a quantidade aqui          `
 
 
 Produto novo
@@ -33,8 +33,8 @@ Pão
 Layout quando insere um existente:
 
 
-[Amaciante     ]
-[2             ]
+`Amaciante     `
+`2             `
 
 
 Produto já existente
