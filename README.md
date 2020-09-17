@@ -15,7 +15,7 @@ Criar um app de Lista de Compras:
 Layout quando insere um novo:
 
 
-`Digite o nome do produto aqui     `
+`Digite o nome do produto aqui     `<br>
 `Digite a quantidade aqui          `
 
 
@@ -33,7 +33,7 @@ Pão
 Layout quando insere um existente:
 
 
-`Amaciante     `
+`Amaciante     ` <br>
 `2             `
 
 
@@ -55,7 +55,10 @@ Sobre o Desenvolvimento:
 - A lista deve ser exibida para o usuário numa label.
 - Ao clicar em qualquer botão, deve esconder o teclado.
 - No campo quantidade, o teclado deve ser numérico.
+
+
 let nome = "nárléi"
 print(nome.folding(options: .diacriticInsensitive, locale: .current).lowercased()) // narlei
 // Removendo item do array:
+
 https://stackoverflow.com/questions/24051633/how-to-remove-an-element-from-an-array-in-swift
